@@ -31,7 +31,7 @@ def main():
     print(f"Fibonacci({n}) = {result}")
     
     # Test greet
-    name = "NGUYEN XUAN TRUC"
+    name = "NGUYEN XUAN TRINH"
     greeting = greet(name)
     print(greeting)
     
@@ -50,3 +50,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
