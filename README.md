@@ -162,9 +162,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Liên hệ
 
-**NGUYEN XUAN TRUC** - [GitHub Profile](https://github.com/your-username)
+**NGUYEN XUAN TRINH** - [GitHub Profile](https://github.com/your-username)
 
-Project Link: [https://github.com/your-username/python-obfuscator](https://github.com/your-username/python-obfuscator)
+Project Link: [https://github.com/nguyenxuantrinhnotpd/Python-Obfuscator](https://github.com/nguyenxuantrinhnotpd/Python-Obfuscator)
 
 ---
 
@@ -175,3 +175,4 @@ Project Link: [https://github.com/your-username/python-obfuscator](https://githu
 - Built with ❤️ và Python AST
 
 **Happy Obfuscating! 🔒✨**
+
