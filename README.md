@@ -21,7 +21,7 @@
 python --version  # Cần >= 3.10
 
 # Download file
-curl -O https://raw.githubusercontent.com/nguyenxuantrinhnotpd/Python-Obfuscator/skibidi.py
+curl -O https://raw.githubusercontent.com/nguyenxuantrinhnotpd/Python-Obfuscator/refs/heads/main/skibidi.py
 # hoặc download trực tiếp từ GitHub
 ```
 
@@ -175,5 +175,6 @@ Project Link: [https://github.com/nguyenxuantrinhnotpd/Python-Obfuscator](https:
 - Built with ❤️ và Python AST
 
 **Happy Obfuscating! 🔒✨**
+
 
 
