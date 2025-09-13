@@ -7,7 +7,7 @@ Công cụ này sẽ biến đổi code Python thành một dạng khó đọc b
 - Chuyển đổi luồng thực thi thành state machine với while loop
 - Xáo trộn thứ tự các case để làm khó hiểu logic
 
-Author: NGUYEN XUAN TRUC
+Author: NGUYEN XUAN TRINH
 """
 
 import ast
@@ -249,4 +249,5 @@ Ví dụ sử dụng:
 
 
 if __name__ == '__main__':
+
     main()
